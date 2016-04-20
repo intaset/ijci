@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /ijci
+exclude: ['README.md',]
